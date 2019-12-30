@@ -1,4 +1,5 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;--;--;--;--;Unable to evaluate status expression for graphic.
-0;--;--;--;--;Could not determine the row to use in referenced table or repeat group 'R_Presidente'.
+0.194855990577244;DefaultEntity.216;Verificador4_1;9.PerformProcessingTask;[Consume] TaskMaterials;Unable to resolve inventory data for material 'Boletas3' at site object 'Verificador4_1'.
+0.194855990577244;DefaultEntity.216;Verificador4_1;9.PerformProcessingTask;[Consume] TaskMaterials;The Location Based Inventory property of the material is set to True but no inventory element for the site was found.
+0.194855990577244;DefaultEntity.216;Verificador4_1;9.PerformProcessingTask;[Consume] TaskMaterials;Verify that a site object has been specified and that an inventory element for the required Material Name-Site Object Name pair has been added to the model.
 
